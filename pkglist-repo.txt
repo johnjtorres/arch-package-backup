@@ -91,6 +91,7 @@ stylua
 sudo
 systemsettings
 texinfo
+thunar
 tldr
 tree
 ttf-firacode-nerd
