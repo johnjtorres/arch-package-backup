@@ -242,6 +242,7 @@ skanpage
 spectacle
 starship
 step
+stylua
 sudo
 svgpart
 sweeper
