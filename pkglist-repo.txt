@@ -43,6 +43,7 @@ kwallet-pam
 kwayland-integration
 kwin
 kwrited
+latte-dock
 layer-shell-qt
 libkscreen
 libksysguard
