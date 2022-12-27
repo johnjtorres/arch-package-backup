@@ -44,6 +44,7 @@ grantlee-editor
 grub
 gwenview
 htop
+inetutils
 itinerary
 juk
 k3b
