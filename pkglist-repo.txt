@@ -32,6 +32,7 @@ efibootmgr
 elisa
 fakeroot
 falkon
+fd
 ffmpegthumbs
 filelight
 firefox
