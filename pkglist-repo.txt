@@ -233,6 +233,7 @@ print-manager
 pulseaudio-bluetooth
 python-pip
 reflector
+ripgrep
 rocs
 sddm
 sddm-kcm
